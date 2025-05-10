@@ -89,7 +89,7 @@ assets/
 
 ## Autoria
 
-Desenvolupat per [Iolanda Marquès](https://github.com/IolandaMar) com a projecte de demostració de Flutter amb focus en disseny visual, arquitectura modular i integració d'APIs externes.
+Desenvolupat per [Iolanda Martínez](https://github.com/IolandaMar) com a projecte de demostració de Flutter amb focus en disseny visual, arquitectura modular i integració d'APIs externes.
 
 ## Llicència
 
