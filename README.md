@@ -85,7 +85,7 @@ assets/
 
 ## Autoria
 
-Desenvolupat per [Iolanda Martínez] (https://github.com/IolandaMar), Iman Idrissi i Joel Espinosa com a projecte de demostració de Flutter amb focus en disseny visual, arquitectura modular i integració d'APIs externes.
+Desenvolupat per [Iolanda Martínez](https://github.com/IolandaMar) , Iman Idrissi i Joel Espinosa com a projecte de demostració de Flutter amb focus en disseny visual, arquitectura modular i integració d'APIs externes.
 
 ## Llicència
 
