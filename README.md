@@ -83,10 +83,6 @@ assets/
 ├── icons/
 ```
 
-## Captures de Pantalla
-
-(Afegeix aquí imatges de la interfície per mostrar el disseny i les funcionalitats.)
-
 ## Autoria
 
 Desenvolupat per [Iolanda Martínez](https://github.com/IolandaMar) com a projecte de demostració de Flutter amb focus en disseny visual, arquitectura modular i integració d'APIs externes.
