@@ -4,14 +4,14 @@ class DetailTile extends StatefulWidget {
   final IconData icona;
   final String etiqueta;
   final String valor;
-  final int delayIndex; // 👈 afegit
+  final int delayIndex;
 
   const DetailTile({
     super.key,
     required this.icona,
     required this.etiqueta,
     required this.valor,
-    this.delayIndex = 0, // 👈 afegit amb valor per defecte
+    this.delayIndex = 0,
   });
 
   @override

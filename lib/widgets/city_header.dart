@@ -41,7 +41,6 @@ class CityHeader extends StatelessWidget {
       padding: const EdgeInsets.symmetric(vertical: 24),
       child: Column(
         children: [
-          // Icona local
           Image.asset(
             'assets/icons/$icona.png',
             width: 80,

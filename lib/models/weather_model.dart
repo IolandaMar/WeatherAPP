@@ -11,8 +11,8 @@ class Weather {
   final double sensacioTermica;
   final DateTime sortidaSol;
   final DateTime postaSol;
-  double latitud;   // ⬅️ Ara mutable
-  double longitud;  // ⬅️ Ara mutable
+  double latitud;
+  double longitud;
 
   Weather({
     required this.ciutat,

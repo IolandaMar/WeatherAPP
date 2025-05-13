@@ -15,7 +15,7 @@ class ForecastHourly extends StatelessWidget {
       enCelsius ? temp : (temp * 9 / 5) + 32;
 
   String formatHora(DateTime date) {
-    return DateFormat.Hm().format(date); // Ex: 17:00
+    return DateFormat.Hm().format(date);
   }
 
   @override
